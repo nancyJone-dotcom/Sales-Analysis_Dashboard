@@ -1,15 +1,14 @@
 # Sales-Analysis_Dashboard
 
-1. Project Title
+1. Project Title :
 
 Sales Analytics & Performance Dashboard
 
-2. Purpose / Description
+2. Purpose / Description :
 
-A Power BI dashboard designed to analyze sales performance, profit trends, customer segments, product categories, and discount impact. The goal is to provide clear insights that support business decision-making and improve overall sales strategy.
+A Power BI dashboard designed to analyze sales performance, profit trends, customer segments, product categories, and discount impact. The goal is to provide       clear insights that support business decision-making and improve overall sales strategy.
 
-3. Tech Stack / Tools Used
-
+3. Tech Stack / Tools Used :
 📊 Power BI Desktop – Report building, visualization, and KPI tracking
 🔄 Power Query – Data cleaning, transformation, and shaping
 ➕ DAX (Data Analysis Expressions) – Calculated measures, KPIs, time-intelligence logic
