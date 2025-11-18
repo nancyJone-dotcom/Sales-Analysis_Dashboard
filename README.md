@@ -17,7 +17,7 @@ The goal is to provide clear insights that support business decision-making and 
 
 ➕ DAX (Data Analysis Expressions) – Calculated measures, KPIs, time-intelligence logic
 
-🗂️ Data Modeling – Relationship creation between fact and dimension tables
+🗂️ Data Modeling – Star Schema - Relationship creation between fact and dimension tables
 
 💾 File Format – .pbix for development, .png for dashboard exports
 
